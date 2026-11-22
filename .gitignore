@@ -1,0 +1,6 @@
+﻿*.class
+build/
+bin/
+out/
+.vscode/
+.idea/
